@@ -24,8 +24,14 @@ jobs:
     - run: npm install
     - run: npm run build --if-present
 
-    - name: Create tag
-      run: git tag v$(date +'%Y%m%d%H%M%S') && git push origin --tags
+    - name: Create Tag
+      id: create_tag
+      run: |
+        echo "TAG_NAME=v$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "GitHub Actions"
+        git tag $TAG_NAME
+        git push origin $TAG_NAME
 
     - name: Create Release
       id: create_release

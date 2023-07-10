@@ -1,0 +1,1322 @@
+[
+  {
+    "city": "Aalborg",
+    "country": "Denmark",
+    "iataCode": "AAL",
+    "fileName": "Aalborg.txt"
+  },
+  {
+    "city": "Aarhus",
+    "country": "Denmark",
+    "iataCode": "AAR",
+    "fileName": "Aarhus.txt"
+  },
+  {
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "iataCode": "ABZ",
+    "fileName": "Aberdeen.txt"
+  },
+  {
+    "city": "Lanzarote",
+    "country": "Spain",
+    "iataCode": "ACE",
+    "fileName": "Lanzarote.txt"
+  },
+  {
+    "city": "Agadir",
+    "country": "Morocco",
+    "iataCode": "AGA",
+    "fileName": "Agadir.txt"
+  },
+  {
+    "city": "Malaga",
+    "country": "Spain",
+    "iataCode": "AGP",
+    "fileName": "Malaga.txt"
+  },
+  {
+    "city": "Alghero",
+    "country": "Italy",
+    "iataCode": "AHO",
+    "fileName": "Alghero.txt"
+  },
+  {
+    "city": "Alicante",
+    "country": "Spain",
+    "iataCode": "ALC",
+    "fileName": "Alicante.txt"
+  },
+  {
+    "city": "Amman",
+    "country": "Jordan",
+    "iataCode": "AMM",
+    "fileName": "Amman.txt"
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "iataCode": "AMS",
+    "fileName": "Amsterdam.txt"
+  },
+  {
+    "city": "Ancona",
+    "country": "Italy",
+    "iataCode": "AOI",
+    "fileName": "Ancona.txt"
+  },
+  {
+    "city": "Aqaba",
+    "country": "Jordan",
+    "iataCode": "AQJ",
+    "fileName": "Aqaba.txt"
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "iataCode": "ARN",
+    "fileName": "Stockholm.txt"
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "iataCode": "ATH",
+    "fileName": "Athens.txt"
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "iataCode": "BCN",
+    "fileName": "Barcelona.txt"
+  },
+  {
+    "city": "Brindisi",
+    "country": "Italy",
+    "iataCode": "BDS",
+    "fileName": "Brindisi.txt"
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "iataCode": "BER",
+    "fileName": "Berlin.txt"
+  },
+  {
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "iataCode": "BFS",
+    "fileName": "Belfast.txt"
+  },
+  {
+    "city": "Bergamo",
+    "country": "Italy",
+    "iataCode": "BGY",
+    "fileName": "Bergamo.txt"
+  },
+  {
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "iataCode": "BHX",
+    "fileName": "Birmingham.txt"
+  },
+  {
+    "city": "Biarritz",
+    "country": "France",
+    "iataCode": "BIQ",
+    "fileName": "Biarritz.txt"
+  },
+  {
+    "city": "Bodrum",
+    "country": "Turkey",
+    "iataCode": "BJV",
+    "fileName": "Bodrum.txt"
+  },
+  {
+    "city": "Billund",
+    "country": "Denmark",
+    "iataCode": "BLL",
+    "fileName": "Billund.txt"
+  },
+  {
+    "city": "Bologna",
+    "country": "Italy",
+    "iataCode": "BLQ",
+    "fileName": "Bologna.txt"
+  },
+  {
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "iataCode": "BNX",
+    "fileName": "Banja Luka.txt"
+  },
+  {
+    "city": "Bordeaux",
+    "country": "France",
+    "iataCode": "BOD",
+    "fileName": "Bordeaux.txt"
+  },
+  {
+    "city": "Bournemouth",
+    "country": "United Kingdom",
+    "iataCode": "BOH",
+    "fileName": "Bournemouth.txt"
+  },
+  {
+    "city": "Burgas",
+    "country": "Bulgaria",
+    "iataCode": "BOJ",
+    "fileName": "Burgas.txt"
+  },
+  {
+    "city": "Bremen",
+    "country": "Germany",
+    "iataCode": "BRE",
+    "fileName": "Bremen.txt"
+  },
+  {
+    "city": "Bari",
+    "country": "Italy",
+    "iataCode": "BRI",
+    "fileName": "Bari.txt"
+  },
+  {
+    "city": "Brno",
+    "country": "Czech Republic",
+    "iataCode": "BRQ",
+    "fileName": "Brno.txt"
+  },
+  {
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "iataCode": "BRS",
+    "fileName": "Bristol.txt"
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "iataCode": "BRU",
+    "fileName": "Brussels.txt"
+  },
+  {
+    "city": "Basel",
+    "country": "Switzerland",
+    "iataCode": "BSL",
+    "fileName": "Basel.txt"
+  },
+  {
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "iataCode": "BTS",
+    "fileName": "Bratislava.txt"
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "iataCode": "BUD",
+    "fileName": "Budapest.txt"
+  },
+  {
+    "city": "Beauvais",
+    "country": "France",
+    "iataCode": "BVA",
+    "fileName": "Beauvais.txt"
+  },
+  {
+    "city": "Brive",
+    "country": "France",
+    "iataCode": "BVE",
+    "fileName": "Brive.txt"
+  },
+  {
+    "city": "Bydgoszcz",
+    "country": "Poland",
+    "iataCode": "BZG",
+    "fileName": "Bydgoszcz.txt"
+  },
+  {
+    "city": "Béziers",
+    "country": "France",
+    "iataCode": "BZR",
+    "fileName": "Béziers.txt"
+  },
+  {
+    "city": "Cagliari",
+    "country": "Italy",
+    "iataCode": "CAG",
+    "fileName": "Cagliari.txt"
+  },
+  {
+    "city": "Carcassonne",
+    "country": "France",
+    "iataCode": "CCF",
+    "fileName": "Carcassonne.txt"
+  },
+  {
+    "city": "Castres",
+    "country": "France",
+    "iataCode": "CDT",
+    "fileName": "Castres.txt"
+  },
+  {
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "iataCode": "CFE",
+    "fileName": "Clermont-Ferrand.txt"
+  },
+  {
+    "city": "Corfu",
+    "country": "Greece",
+    "iataCode": "CFU",
+    "fileName": "Corfu.txt"
+  },
+  {
+    "city": "Cologne",
+    "country": "Germany",
+    "iataCode": "CGN",
+    "fileName": "Cologne.txt"
+  },
+  {
+    "city": "Chania",
+    "country": "Greece",
+    "iataCode": "CHQ",
+    "fileName": "Chania.txt"
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "iataCode": "CIA",
+    "fileName": "Rome.txt"
+  },
+  {
+    "city": "Comiso",
+    "country": "Italy",
+    "iataCode": "CIY",
+    "fileName": "Comiso.txt"
+  },
+  {
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "iataCode": "CLJ",
+    "fileName": "Cluj-Napoca.txt"
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "iataCode": "CPH",
+    "fileName": "Copenhagen.txt"
+  },
+  {
+    "city": "Charleroi",
+    "country": "Belgium",
+    "iataCode": "CRL",
+    "fileName": "Charleroi.txt"
+  },
+  {
+    "city": "Crotone",
+    "country": "Italy",
+    "iataCode": "CRV",
+    "fileName": "Crotone.txt"
+  },
+  {
+    "city": "Catania",
+    "country": "Italy",
+    "iataCode": "CTA",
+    "fileName": "Catania.txt"
+  },
+  {
+    "city": "Cuneo",
+    "country": "Italy",
+    "iataCode": "CUF",
+    "fileName": "Cuneo.txt"
+  },
+  {
+    "city": "Cardiff",
+    "country": "United Kingdom",
+    "iataCode": "CWL",
+    "fileName": "Cardiff.txt"
+  },
+  {
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "iataCode": "DBV",
+    "fileName": "Dubrovnik.txt"
+  },
+  {
+    "city": "Dole",
+    "country": "France",
+    "iataCode": "DLE",
+    "fileName": "Dole.txt"
+  },
+  {
+    "city": "Dalaman",
+    "country": "Turkey",
+    "iataCode": "DLM",
+    "fileName": "Dalaman.txt"
+  },
+  {
+    "city": "Dresden",
+    "country": "Germany",
+    "iataCode": "DRS",
+    "fileName": "Dresden.txt"
+  },
+  {
+    "city": "Dortmund",
+    "country": "Germany",
+    "iataCode": "DTM",
+    "fileName": "Dortmund.txt"
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "iataCode": "DUB",
+    "fileName": "Dublin.txt"
+  },
+  {
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "iataCode": "EDI",
+    "fileName": "Edinburgh.txt"
+  },
+  {
+    "city": "Kefalonia",
+    "country": "Greece",
+    "iataCode": "EFL",
+    "fileName": "Kefalonia.txt"
+  },
+  {
+    "city": "Bergerac",
+    "country": "France",
+    "iataCode": "EGC",
+    "fileName": "Bergerac.txt"
+  },
+  {
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "iataCode": "EIN",
+    "fileName": "Eindhoven.txt"
+  },
+  {
+    "city": "East Midlands",
+    "country": "United Kingdom",
+    "iataCode": "EMA",
+    "fileName": "East Midlands.txt"
+  },
+  {
+    "city": "Essaouira",
+    "country": "Morocco",
+    "iataCode": "ESU",
+    "fileName": "Essaouira.txt"
+  },
+  {
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "iataCode": "EXT",
+    "fileName": "Exeter.txt"
+  },
+  {
+    "city": "Faro",
+    "country": "Portugal",
+    "iataCode": "FAO",
+    "fileName": "Faro.txt"
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "iataCode": "FCO",
+    "fileName": "Rome.txt"
+  },
+  {
+    "city": "Fez",
+    "country": "Morocco",
+    "iataCode": "FEZ",
+    "fileName": "Fez.txt"
+  },
+  {
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "iataCode": "FKB",
+    "fileName": "Karlsruhe.txt"
+  },
+  {
+    "city": "Memmingen",
+    "country": "Germany",
+    "iataCode": "FMM",
+    "fileName": "Memmingen.txt"
+  },
+  {
+    "city": "Münster",
+    "country": "Germany",
+    "iataCode": "FMO",
+    "fileName": "Münster.txt"
+  },
+  {
+    "city": "Funchal",
+    "country": "Portugal",
+    "iataCode": "FNC",
+    "fileName": "Funchal.txt"
+  },
+  {
+    "city": "Nîmes",
+    "country": "France",
+    "iataCode": "FNI",
+    "fileName": "Nîmes.txt"
+  },
+  {
+    "city": "Frejus",
+    "country": "France",
+    "iataCode": "FRL",
+    "fileName": "Frejus.txt"
+  },
+  {
+    "city": "Figari",
+    "country": "France",
+    "iataCode": "FSC",
+    "fileName": "Figari.txt"
+  },
+  {
+    "city": "Fuerteventura",
+    "country": "Spain",
+    "iataCode": "FUE",
+    "fileName": "Fuerteventura.txt"
+  },
+  {
+    "city": "Gdańsk",
+    "country": "Poland",
+    "iataCode": "GDN",
+    "fileName": "Gdańsk.txt"
+  },
+  {
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "iataCode": "GLA",
+    "fileName": "Glasgow.txt"
+  },
+  {
+    "city": "Grenoble",
+    "country": "France",
+    "iataCode": "GNB",
+    "fileName": "Grenoble.txt"
+  },
+  {
+    "city": "Genoa",
+    "country": "Italy",
+    "iataCode": "GOA",
+    "fileName": "Genoa.txt"
+  },
+  {
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "iataCode": "GOT",
+    "fileName": "Gothenburg.txt"
+  },
+  {
+    "city": "Girona",
+    "country": "Spain",
+    "iataCode": "GRO",
+    "fileName": "Girona.txt"
+  },
+  {
+    "city": "Hamburg",
+    "country": "Germany",
+    "iataCode": "HAM",
+    "fileName": "Hamburg.txt"
+  },
+  {
+    "city": "Haugesund",
+    "country": "Norway",
+    "iataCode": "HAU",
+    "fileName": "Haugesund.txt"
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "iataCode": "HEL",
+    "fileName": "Helsinki.txt"
+  },
+  {
+    "city": "Heraklion",
+    "country": "Greece",
+    "iataCode": "HER",
+    "fileName": "Heraklion.txt"
+  },
+  {
+    "city": "Frankfurt 0Hahn",
+    "country": "Germany",
+    "iataCode": "HHN",
+    "fileName": "Hahn.txt"
+  },
+  {
+    "city": "Ibiza",
+    "country": "Spain",
+    "iataCode": "IBZ",
+    "fileName": "Ibiza.txt"
+  },
+  {
+    "city": "Nis",
+    "country": "Serbia",
+    "iataCode": "INI",
+    "fileName": "Nis.txt"
+  },
+  {
+    "city": "Mykonos",
+    "country": "Greece",
+    "iataCode": "JMK",
+    "fileName": "Mykonos.txt"
+  },
+  {
+    "city": "Skiathos",
+    "country": "Greece",
+    "iataCode": "JSI",
+    "fileName": "Skiathos.txt"
+  },
+  {
+    "city": "Santorini",
+    "country": "Greece",
+    "iataCode": "JTR",
+    "fileName": "Santorini.txt"
+  },
+  {
+    "city": "Kos",
+    "country": "Greece",
+    "iataCode": "KGS",
+    "fileName": "Kos.txt"
+  },
+  {
+    "city": "Kerry",
+    "country": "Ireland",
+    "iataCode": "KIR",
+    "fileName": "Kerry.txt"
+  },
+  {
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "iataCode": "KLU",
+    "fileName": "Klagenfurt.txt"
+  },
+  {
+    "city": "Kalamata",
+    "country": "Greece",
+    "iataCode": "KLX",
+    "fileName": "Kalamata.txt"
+  },
+  {
+    "city": "Krakow",
+    "country": "Poland",
+    "iataCode": "KRK",
+    "fileName": "Krakow.txt"
+  },
+  {
+    "city": "Kosice",
+    "country": "Slovakia",
+    "iataCode": "KSC",
+    "fileName": "Kosice.txt"
+  },
+  {
+    "city": "Las Palmas",
+    "country": "Spain",
+    "iataCode": "LPA",
+    "fileName": "Las Palmas.txt"
+  },
+  {
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "iataCode": "LPL",
+    "fileName": "Liverpool.txt"
+  },
+  {
+    "city": "Lappeenranta",
+    "country": "Finland",
+    "iataCode": "LPP",
+    "fileName": "Lappeenranta.txt"
+  },
+  {
+    "city": "La Rochelle",
+    "country": "France",
+    "iataCode": "LRH",
+    "fileName": "La Rochelle.txt"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "iataCode": "LTN",
+    "fileName": "London.txt"
+  },
+  {
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "iataCode": "LUX",
+    "fileName": "Luxembourg.txt"
+  },
+  {
+    "city": "Lublin",
+    "country": "Poland",
+    "iataCode": "LUZ",
+    "fileName": "Lublin.txt"
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "iataCode": "MAD",
+    "fileName": "Madrid.txt"
+  },
+  {
+    "city": "Menorca",
+    "country": "Spain",
+    "iataCode": "MAH",
+    "fileName": "Menorca.txt"
+  },
+  {
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "iataCode": "MAN",
+    "fileName": "Manchester.txt"
+  },
+  {
+    "city": "Malta",
+    "country": "Malta",
+    "iataCode": "MLA",
+    "fileName": "Malta.txt"
+  },
+  {
+    "city": "Durham",
+    "country": "United Kingdom",
+    "iataCode": "MME",
+    "fileName": "Durham.txt"
+  },
+  {
+    "city": "Malmö",
+    "country": "Sweden",
+    "iataCode": "MMX",
+    "fileName": "Malmö.txt"
+  },
+  {
+    "city": "Marseille",
+    "country": "France",
+    "iataCode": "MRS",
+    "fileName": "Marseille.txt"
+  },
+  {
+    "city": "Maastricht",
+    "country": "Netherlands",
+    "iataCode": "MST",
+    "fileName": "Maastricht.txt"
+  },
+  {
+    "city": "Milan",
+    "country": "Italy",
+    "iataCode": "MXP",
+    "fileName": "Milan.txt"
+  },
+  {
+    "city": "Naples",
+    "country": "Italy",
+    "iataCode": "NAP",
+    "fileName": "Naples.txt"
+  },
+  {
+    "city": "Nice",
+    "country": "France",
+    "iataCode": "NCE",
+    "fileName": "Nice.txt"
+  },
+  {
+    "city": "Newcastle",
+    "country": "United Kingdom",
+    "iataCode": "NCL",
+    "fileName": "Newcastle.txt"
+  },
+  {
+    "city": "Nador",
+    "country": "Morocco",
+    "iataCode": "NDR",
+    "fileName": "Nador.txt"
+  },
+  {
+    "city": "Knock",
+    "country": "Ireland",
+    "iataCode": "NOC",
+    "fileName": "Knock.txt"
+  },
+  {
+    "city": "Newquay",
+    "country": "United Kingdom",
+    "iataCode": "NQY",
+    "fileName": "Newquay.txt"
+  },
+  {
+    "city": "Duisburg",
+    "country": "Germany",
+    "iataCode": "NRN",
+    "fileName": "Weeze.txt"
+  },
+  {
+    "city": "Nantes",
+    "country": "France",
+    "iataCode": "NTE",
+    "fileName": "Nantes.txt"
+  },
+  {
+    "city": "Nuremberg",
+    "country": "Germany",
+    "iataCode": "NUE",
+    "fileName": "Nuremberg.txt"
+  },
+  {
+    "city": "Oradea",
+    "country": "Romania",
+    "iataCode": "OMR",
+    "fileName": "Oradea.txt"
+  },
+  {
+    "city": "Porto",
+    "country": "Portugal",
+    "iataCode": "OPO",
+    "fileName": "Porto.txt"
+  },
+  {
+    "city": "Örebro",
+    "country": "Sweden",
+    "iataCode": "ORB",
+    "fileName": "Örebro.txt"
+  },
+  {
+    "city": "Cork",
+    "country": "Ireland",
+    "iataCode": "ORK",
+    "fileName": "Cork.txt"
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "iataCode": "OSL",
+    "fileName": "Oslo.txt"
+  },
+  {
+    "city": "Ostrava",
+    "country": "Czech Republic",
+    "iataCode": "OSR",
+    "fileName": "Ostrava.txt"
+  },
+  {
+    "city": "Bucharest",
+    "country": "Romania",
+    "iataCode": "OTP",
+    "fileName": "Bucharest.txt"
+  },
+  {
+    "city": "Oujda",
+    "country": "Morocco",
+    "iataCode": "OUD",
+    "fileName": "Oujda.txt"
+  },
+  {
+    "city": "Oviedo",
+    "country": "Spain",
+    "iataCode": "OVD",
+    "fileName": "Oviedo.txt"
+  },
+  {
+    "city": "Ouarzazate",
+    "country": "Morocco",
+    "iataCode": "OZZ",
+    "fileName": "Ouarzazate.txt"
+  },
+  {
+    "city": "Ponta Delgada",
+    "country": "Portugal",
+    "iataCode": "PDL",
+    "fileName": "Ponta Delgada.txt"
+  },
+  {
+    "city": "Plovdiv",
+    "country": "Bulgaria",
+    "iataCode": "PDV",
+    "fileName": "Plovdiv.txt"
+  },
+  {
+    "city": "Pardubice",
+    "country": "Czech Republic",
+    "iataCode": "PED",
+    "fileName": "Pardubice.txt"
+  },
+  {
+    "city": "Perugia",
+    "country": "Italy",
+    "iataCode": "PEG",
+    "fileName": "Perugia.txt"
+  },
+  {
+    "city": "Paphos",
+    "country": "Cyprus",
+    "iataCode": "PFO",
+    "fileName": "Paphos.txt"
+  },
+  {
+    "city": "Perpignan",
+    "country": "France",
+    "iataCode": "PGF",
+    "fileName": "Perpignan.txt"
+  },
+  {
+    "city": "Glasgow Prestwick",
+    "country": "United Kingdom",
+    "iataCode": "PIK",
+    "fileName": "Glasgow Prestwick.txt"
+  },
+  {
+    "city": "Poitiers",
+    "country": "France",
+    "iataCode": "PIS",
+    "fileName": "Poitiers.txt"
+  },
+  {
+    "city": "Palanga",
+    "country": "Lithuania",
+    "iataCode": "PLQ",
+    "fileName": "Palanga.txt"
+  },
+  {
+    "city": "Parma",
+    "country": "Italy",
+    "iataCode": "PMF",
+    "fileName": "Parma.txt"
+  },
+  {
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "iataCode": "PMI",
+    "fileName": "Palma de Mallorca.txt"
+  },
+  {
+    "city": "Palermo",
+    "country": "Italy",
+    "iataCode": "PMO",
+    "fileName": "Palermo.txt"
+  },
+  {
+    "city": "Poznań",
+    "country": "Poland",
+    "iataCode": "POZ",
+    "fileName": "Poznań.txt"
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "iataCode": "PRG",
+    "fileName": "Prague.txt"
+  },
+  {
+    "city": "Pisa",
+    "country": "Italy",
+    "iataCode": "PSA",
+    "fileName": "Pisa.txt"
+  },
+  {
+    "city": "Pescara",
+    "country": "Italy",
+    "iataCode": "PSR",
+    "fileName": "Pescara.txt"
+  },
+  {
+    "city": "Pula",
+    "country": "Croatia",
+    "iataCode": "PUY",
+    "fileName": "Pula.txt"
+  },
+  {
+    "city": "Preveza",
+    "country": "Greece",
+    "iataCode": "PVK",
+    "fileName": "Preveza.txt"
+  },
+  {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "iataCode": "RAK",
+    "fileName": "Marrakech.txt"
+  },
+  {
+    "city": "Rabat",
+    "country": "Morocco",
+    "iataCode": "RBA",
+    "fileName": "Rabat.txt"
+  },
+  {
+    "city": "Rodez",
+    "country": "France",
+    "iataCode": "RDZ",
+    "fileName": "Rodez.txt"
+  },
+  {
+    "city": "Reus",
+    "country": "Spain",
+    "iataCode": "REU",
+    "fileName": "Reus.txt"
+  },
+  {
+    "city": "Rhodes",
+    "country": "Greece",
+    "iataCode": "RHO",
+    "fileName": "Rhodes.txt"
+  },
+  {
+    "city": "Riga",
+    "country": "Latvia",
+    "iataCode": "RIX",
+    "fileName": "Riga.txt"
+  },
+  {
+    "city": "Rijeka",
+    "country": "Croatia",
+    "iataCode": "RJK",
+    "fileName": "Rijeka.txt"
+  },
+  {
+    "city": "Rimini",
+    "country": "Italy",
+    "iataCode": "RMI",
+    "fileName": "Rimini.txt"
+  },
+  {
+    "city": "Corvera",
+    "country": "Spain",
+    "iataCode": "RMU",
+    "fileName": "Corvera.txt"
+  },
+  {
+    "city": "Rovaniemi",
+    "country": "Finland",
+    "iataCode": "RVN",
+    "fileName": "Rovaniemi.txt"
+  },
+  {
+    "city": "Rzeszów",
+    "country": "Poland",
+    "iataCode": "RZE",
+    "fileName": "Rzeszów.txt"
+  },
+  {
+    "city": "Sibiu",
+    "country": "Romania",
+    "iataCode": "SBZ",
+    "fileName": "Sibiu.txt"
+  },
+  {
+    "city": "Santiago de Compostela",
+    "country": "Spain",
+    "iataCode": "SCQ",
+    "fileName": "Santiago de Compostela.txt"
+  },
+  {
+    "city": "Suceava",
+    "country": "Romania",
+    "iataCode": "SCV",
+    "fileName": "Suceava.txt"
+  },
+  {
+    "city": "Santander",
+    "country": "Spain",
+    "iataCode": "SDR",
+    "fileName": "Santander.txt"
+  },
+  {
+    "city": "Skellefteå",
+    "country": "Sweden",
+    "iataCode": "SFT",
+    "fileName": "Skellefteå.txt"
+  },
+  {
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "iataCode": "SKG",
+    "fileName": "Thessaloniki.txt"
+  },
+  {
+    "city": "Shannon",
+    "country": "Ireland",
+    "iataCode": "SNN",
+    "fileName": "Shannon.txt"
+  },
+  {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "iataCode": "SOF",
+    "fileName": "Sofia.txt"
+  },
+  {
+    "city": "La Palma",
+    "country": "Spain",
+    "iataCode": "SPC",
+    "fileName": "La Palma.txt"
+  },
+  {
+    "city": "Split",
+    "country": "Croatia",
+    "iataCode": "SPU",
+    "fileName": "Split.txt"
+  },
+  {
+    "city": "London Stansted",
+    "country": "United Kingdom",
+    "iataCode": "STN",
+    "fileName": "London Stansted.txt"
+  },
+  {
+    "city": "Lamezia Terme",
+    "country": "Italy",
+    "iataCode": "SUF",
+    "fileName": "Lamezia Terme.txt"
+  },
+  {
+    "city": "Seville",
+    "country": "Spain",
+    "iataCode": "SVQ",
+    "fileName": "Seville.txt"
+  },
+  {
+    "city": "Strasbourg",
+    "country": "France",
+    "iataCode": "SXB",
+    "fileName": "Strasbourg.txt"
+  },
+  {
+    "city": "Salzburg",
+    "country": "Austria",
+    "iataCode": "SZG",
+    "fileName": "Salzburg.txt"
+  },
+  {
+    "city": "Szczytno",
+    "country": "Poland",
+    "iataCode": "SZY",
+    "fileName": "Szczytno.txt"
+  },
+  {
+    "city": "Szczecin",
+    "country": "Poland",
+    "iataCode": "SZZ",
+    "fileName": "Szczecin.txt"
+  },
+  {
+    "city": "Lajes",
+    "country": "Portugal",
+    "iataCode": "TER",
+    "fileName": "Lajes.txt"
+  },
+  {
+    "city": "Tenerife North",
+    "country": "Spain",
+    "iataCode": "TFN",
+    "fileName": "Tenerife North.txt"
+  },
+  {
+    "city": "Tenerife South",
+    "country": "Spain",
+    "iataCode": "TFS",
+    "fileName": "Tenerife South.txt"
+  },
+  {
+    "city": "Podgorica",
+    "country": "Montenegro",
+    "iataCode": "TGD",
+    "fileName": "Podgorica.txt"
+  },
+  {
+    "city": "Tallinn",
+    "country": "Estonia",
+    "iataCode": "TLL",
+    "fileName": "Tallinn.txt"
+  },
+  {
+    "city": "Toulouse",
+    "country": "France",
+    "iataCode": "TLS",
+    "fileName": "Toulouse.txt"
+  },
+  {
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "iataCode": "TLV",
+    "fileName": "Tel Aviv.txt"
+  },
+  {
+    "city": "Tampere",
+    "country": "Finland",
+    "iataCode": "TMP",
+    "fileName": "Tampere.txt"
+  },
+  {
+    "city": "Tangier",
+    "country": "Morocco",
+    "iataCode": "TNG",
+    "fileName": "Tangier.txt"
+  },
+  {
+    "city": "Trapani",
+    "country": "Italy",
+    "iataCode": "TPS",
+    "fileName": "Trapani.txt"
+  },
+  {
+    "city": "Sandefjord",
+    "country": "Norway",
+    "iataCode": "TRF",
+    "fileName": "Sandefjord.txt"
+  },
+  {
+    "city": "Turin",
+    "country": "Italy",
+    "iataCode": "TRN",
+    "fileName": "Turin.txt"
+  },
+  {
+    "city": "Trieste",
+    "country": "Italy",
+    "iataCode": "TRS",
+    "fileName": "Trieste.txt"
+  },
+  {
+    "city": "Treviso",
+    "country": "Italy",
+    "iataCode": "TSF",
+    "fileName": "Treviso.txt"
+  },
+  {
+    "city": "Timișoara",
+    "country": "Romania",
+    "iataCode": "TSR",
+    "fileName": "Timișoara.txt"
+  },
+  {
+    "city": "Tétouan",
+    "country": "Morocco",
+    "iataCode": "TTU",
+    "fileName": "Tétouan.txt"
+  },
+  {
+    "city": "Tours",
+    "country": "France",
+    "iataCode": "TUF",
+    "fileName": "Tours.txt"
+  },
+  {
+    "city": "Tuzla",
+    "country": "Bosnia and Herzegovina",
+    "iataCode": "TZL",
+    "fileName": "Tuzla.txt"
+  },
+  {
+    "city": "Varna",
+    "country": "Bulgaria",
+    "iataCode": "VAR",
+    "fileName": "Varna.txt"
+  },
+  {
+    "city": "Visby",
+    "country": "Sweden",
+    "iataCode": "VBY",
+    "fileName": "Visby.txt"
+  },
+  {
+    "city": "Venice",
+    "country": "Italy",
+    "iataCode": "VCE",
+    "fileName": "Venice.txt"
+  },
+  {
+    "city": "Vigo",
+    "country": "Spain",
+    "iataCode": "VGO",
+    "fileName": "Vigo.txt"
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "iataCode": "VIE",
+    "fileName": "Vienna.txt"
+  },
+  {
+    "city": "Vitoria-Gasteiz",
+    "country": "Spain",
+    "iataCode": "VIT",
+    "fileName": "Vitoria-Gasteiz.txt"
+  },
+  {
+    "city": "Valencia",
+    "country": "Spain",
+    "iataCode": "VLC",
+    "fileName": "Valencia.txt"
+  },
+  {
+    "city": "Valladolid",
+    "country": "Spain",
+    "iataCode": "VLL",
+    "fileName": "Valladolid.txt"
+  },
+  {
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "iataCode": "VNO",
+    "fileName": "Vilnius.txt"
+  },
+  {
+    "city": "Verona",
+    "country": "Italy",
+    "iataCode": "VRN",
+    "fileName": "Verona.txt"
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "iataCode": "VST",
+    "fileName": "Stockholm.txt"
+  },
+  {
+    "city": "Växjö",
+    "country": "Sweden",
+    "iataCode": "VXO",
+    "fileName": "Växjö.txt"
+  },
+  {
+    "city": "Warsaw Modlin",
+    "country": "Poland",
+    "iataCode": "WMI",
+    "fileName": "Warsaw Modlin.txt"
+  },
+  {
+    "city": "Wrocław",
+    "country": "Poland",
+    "iataCode": "WRO",
+    "fileName": "Wrocław.txt"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "iataCode": "XCR",
+    "fileName": "Paris.txt"
+  },
+  {
+    "city": "Jerez de la Frontera",
+    "country": "Spain",
+    "iataCode": "XRY",
+    "fileName": "Jerez de la Frontera.txt"
+  },
+  {
+    "city": "Zadar",
+    "country": "Croatia",
+    "iataCode": "ZAD",
+    "fileName": "Zadar.txt"
+  },
+  {
+    "city": "Zagreb",
+    "country": "Croatia",
+    "iataCode": "ZAG",
+    "fileName": "Zagreb.txt"
+  },
+  {
+    "city": "Zaragoza",
+    "country": "Spain",
+    "iataCode": "ZAZ",
+    "fileName": "Zaragoza.txt"
+  }
+]

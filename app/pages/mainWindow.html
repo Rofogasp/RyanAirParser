@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>RyanAir Parser</title>
+    <link rel="stylesheet" href="../../resources/styles/styles_main.css">
+  </head>
+  <body>
+    <h1>RyanAir Parser</h1>
+    <ul id="cityList"></ul>
+
+    <form>
+      <div class="form-row">
+        <label for="departure">Departure: </label>
+        <input type="text" id="input1" name="departure" title="Set IATA code for departure airport">
+        <button type="button" id="reverse-button" class="reverse-button">
+          <img src="../../resources/images/reverse-icon.png" alt="Reverse Inputs"  title="Swap the values of the input fields"/>
+        </button>
+        <label for="arrival" > Destination:</label>
+        <input type="text" id="input2" name="arrival" title="Set IATA code for arrival airport">
+      </div>
+      <div class="form-row">
+        <label for="depart">From:</label>
+        <input type="date" id="datepicker1" name="depart" title="Enter the departure date">
+        <label for="return">To:</label>
+        <input type="date" id="datepicker2" name="return" title="Enter the return date">
+      </div>
+      <div class="form-row">
+        <label for="checkbox" class="switch">Return:
+            <input id="checkbox" type="checkbox">
+            <span class="slider round" title="Search for return flights"></span>
+        </label>
+        <button id="magic-button" title="Show me the magic">Magic</button>
+        <button id="confirm-button" title="Confirm search terms">Confirm</button>
+      </div>
+    </form>
+    <script src="../../src/mainWindow.js"></script>
+  </body>
+</html>

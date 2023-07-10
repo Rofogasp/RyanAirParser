@@ -1,0 +1,62 @@
+body {
+    background-image: url("../../resources/images/result_background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    color: #333;
+}
+
+.flight-card {
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 500px;
+}
+.flight-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.flight-info__hour {
+    font-size: 1em;
+    font-weight: bold;
+}
+.flight-info__city {
+    font-size: 0.6em;
+}
+.flight-card__middle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flight-info__price {
+    font-size: 1em;
+    margin-right: 5px;
+    font-weight: bold;
+    width: 65px;
+    color: #4720f3;
+}
+.flight-info__duration {
+    font-size: 0.6em;
+}
+.flight-info__date {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #4869fc;
+}
+.city-image {
+    clip-path: circle(100% at 0);
+    height: 70px;
+    width: 100px;
+    object-fit: cover;
+}
+.plane-icon {
+    height: 20px;
+}

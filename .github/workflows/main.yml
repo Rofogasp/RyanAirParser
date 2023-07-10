@@ -33,4 +33,3 @@ jobs:
         file: dist/ryanairparser_1.0.0_amd64.snap
         tag: ${{ github.ref }}
         overwrite: true
-        file_glob: true
